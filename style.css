@@ -54,7 +54,7 @@ body, html {
     text-align: center; /* 글자 가운데 정렬 */
     font-size: 20px;
     font-family: "Noto Sans KR", sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     text-decoration: none; /* 링크 밑줄 제거 */
     border-radius: 20px; /* 모서리 둥글게 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
