@@ -28,20 +28,6 @@ body, html {
 
 
 
-.button-container-add, .button-container {
-    display: flex;
-    justify-content: space-around;
-    width: 90%;
-    background-color: #404040; /* 버튼 컨테이너 공통 배경색 */
-    padding: 1.25rem; /* 상대적 크기로 변경 */
-    padding-bottom: 5rem; /* 상대적 크기로 변경 */
-}
-
-.button-container {
-    background-color: #fef6f0; /* 배경색 변경 */
-}
-
-
 /* styles.css 파일 */
 .cta-button {
     position: fixed; /* 버튼을 고정 */
@@ -60,21 +46,6 @@ body, html {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
     z-index: 1000; /* 다른 요소 위에 표시 */
   }
-  
-  .text-above-buttons {
-    color: #ffffff;
-    text-align: center;
-    font-size: 1.2rem; /* 상대적 크기로 변경 */
-    font-family: 'IBM Plex Sans KR', sans-serif;
-    font-weight: 500;
-    display: flex;
-    justify-content: space-around;
-    width: 90%;
-    background-color: #404040;
-    padding: 1.25rem; /* 상대적 크기로 변경 */
-    padding-bottom: 2.5rem; /* 상대적 크기로 변경 */
-    padding-top: 5rem; /* 상대적 크기로 변경 */
- }
 
 
   .content {
